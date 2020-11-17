@@ -1,1 +1,1 @@
-# JITS-Comics-PoC
+# JITS Comics PoC
